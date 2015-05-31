@@ -1,3 +1,60 @@
 [submodule "Day1"]
 	path = Day1
 	url = https://github.com/BBK-PiJ-2014-01/Day1.git
+[submodule "Day2"]
+	path = Day2
+	url = https://github.com/BBK-PiJ-2014-01/Day2.git
+[submodule "Day3"]
+	path = Day3
+	url = https://github.com/BBK-PiJ-2014-01/Day3.git
+[submodule "Day4"]
+	path = Day4
+	url = https://github.com/BBK-PiJ-2014-01/Day4.git
+[submodule "Day5"]
+	path = Day5
+	url = https://github.com/BBK-PiJ-2014-01/Day5.git
+[submodule "Day6"]
+	path = Day6
+	url = https://github.com/BBK-PiJ-2014-01/Day6.git
+[submodule "Day7"]
+	path = Day7
+	url = https://github.com/BBK-PiJ-2014-01/Day7.git
+[submodule "Day8"]
+	path = Day8
+	url = https://github.com/BBK-PiJ-2014-01/Day8.git
+[submodule "Day9"]
+	path = Day9
+	url = https://github.com/BBK-PiJ-2014-01/Day9.git
+[submodule "Day10"]
+	path = Day10
+	url = https://github.com/BBK-PiJ-2014-01/Day10.git
+[submodule "Day11"]
+	path = Day11
+	url = https://github.com/BBK-PiJ-2014-01/Day11.git
+[submodule "Day12"]
+	path = Day12
+	url = https://github.com/BBK-PiJ-2014-01/Day12.git
+[submodule "Day13"]
+	path = Day13
+	url = https://github.com/BBK-PiJ-2014-01/Day13.git
+[submodule "Day14"]
+	path = Day14
+	url = https://github.com/BBK-PiJ-2014-01/Day14.git
+[submodule "Day15"]
+	path = Day15
+	url = https://github.com/BBK-PiJ-2014-01/Day15.git
+[submodule "Day16"]
+	path = Day16
+	url = https://github.com/BBK-PiJ-2014-01/Day16.git
+[submodule "Day17"]
+	path = Day17
+	url = https://github.com/BBK-PiJ-2014-01/Day17.git
+[submodule "Day18"]
+	path = Day18
+	url = https://github.com/BBK-PiJ-2014-01/Day18.git
+[submodule "Day19"]
+	path = Day19
+	url = https://github.com/BBK-PiJ-2014-01/Day19.git
+[submodule "Day21"]
+	path = Day21
+	url = https://github.com/BBK-PiJ-2014-01/Day21.git
